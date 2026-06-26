@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-Plataforma de **Supply Chain Analytics** desenvolvida sob o paradigma local-first para otimização estocástica de estoques, mitigando rupturas e reduzindo o capital imobilizado.
+Plataforma de **Supply Chain Analytics** desenvolvida sob o paradigma local-first para otimização  de estoques, mitigando rupturas e reduzindo o capital imobilizado.
 
 ##  Visão Executiva e Impacto de Negócio
 A automação baseada em dados substitui o planejamento de compras reativo da rede MYK, entregando:
