@@ -9,7 +9,7 @@ description = "Plataforma de Previsão de Demanda e Otimização de Estoque para
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
-    { name = "Mayerikson", email = "seu.email@exemplo.com" }
+    { name = "Mayerikson", email = "mayerikson@hotmail.com" }
 ]
 
 [tool.ruff]
