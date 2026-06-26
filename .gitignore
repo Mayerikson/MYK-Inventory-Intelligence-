@@ -1,0 +1,21 @@
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Cache e Logs
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+mlruns/
+
+# Dados e Modelos (Segurança e Volumetria)
+data/
+*.duckdb
+*.db
+*.csv
+models/registry/
+*.gbm
+*.pkl
