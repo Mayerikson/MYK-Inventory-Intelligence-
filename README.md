@@ -8,7 +8,7 @@ Plataforma de **Supply Chain Analytics** desenvolvida sob o paradigma local-firs
 
 ##  Link do Dashboard em Nuvem
 O painel executivo interativo com as sugestões automáticas de compra foi implantado e está disponível publicamente em:
-➔ **[[Acesse aqui o MYK Inventory Intelligence Dashboard no Streamlit Community Cloud](https://share.streamlit.io/](https://myksca.streamlit.app/))**
+➔ **[(https://myksca.streamlit.app/)]**
 
 ##  Visão Executiva e Impacto de Negócio
 A automação baseada em dados substitui o planejamento de compras reativo da rede MYK, entregando:
